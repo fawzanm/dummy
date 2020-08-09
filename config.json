@@ -1,0 +1,21 @@
+{
+    "production" : false,
+    "baseUrl" : "",
+    "company" : "Google",
+    "title" : "Google Glass Experiance",
+    "logoUrl" : "https://www.freelogodesign.org/Content/img/logo-samples/flooop.png",
+    "video" : {
+        "url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "header" : "Welcome to google Glass",
+        "buttonText" : "Hit me"
+    },
+    "description" : "Website description.",
+    "collections" : [],
+    "sections" : {
+        "section_1" : [
+            "heading" : "Section Heading",
+            "sub-heading" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+            "body" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, suscipit, rerum quos facilis repellat architecto commodi officia atque nemo facere eum non illo voluptatem quae delectus odit vel itaque amet."
+        ]
+    },
+}
